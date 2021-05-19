@@ -30,6 +30,11 @@
   src: url("../fonts/Humanist/humnst777-blk-bt-black.ttf"); 
 }
 
+input{  
+  -webkit-appearance: none !important;
+  box-shadow: none !important;
+}
+
 .headerFilter {
   background: #00000099; 
 }
